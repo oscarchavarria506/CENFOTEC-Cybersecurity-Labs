@@ -1,0 +1,8 @@
+# Security Operations Foundations (CENFOTEC)
+
+This module focuses on the core principles of infrastructure protection, network diagnostics, and vulnerability assessment.
+
+## Lab Deliverables
+* **[Deliverable 1: Network Diagnostics & Port Scanning](./Entregable_1_Analisis_de_Trafico.pdf)** - Analysis of network traffic and connectivity verification using Wireshark and Zenmap.
+* **[Deliverable 2: Cloud Network Security (Azure NSG)](./Practica_Calificada_2.pdf)** - Implementation of NSGs, DDoS mitigation, and traffic flow control.
+* **[Deliverable 3: Web Vulnerability Analysis](./Practica_Calificada_3.pdf)** - OWASP Top 10 exploitation (SQLi, XSS, CSRF) and remediation simulation using DVWA.
