@@ -29,7 +29,7 @@ Technical repository documenting my academic and practical journey in Cybersecur
 ## Technologies and Tools
 
 * **Networking:** Wireshark, Nmap, Zenmap, SSH.
-* **Systems:** Windows Server 2022, Active Directory, Linux (Ubuntu/Debian).
+* **Systems:** Windows Server, Active Directory, Linux (Ubuntu/Debian).
 * **Scripting:** PowerShell, Bash.
 * **Cloud & Virtualization:** Microsoft Azure (Network Watcher, NSG), Oracle VM VirtualBox.
 * **Methodologies:** Zero Trust, OWASP Top 10, CIS Controls v8.
