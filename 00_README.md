@@ -32,7 +32,13 @@ Technical repository documenting my academic and practical journey in Cybersecur
 * **Systems:** Windows Server, Active Directory, Linux (Ubuntu/Debian).
 * **Scripting:** PowerShell, Bash.
 * **Cloud & Virtualization:** Microsoft Azure (Network Watcher, NSG), Oracle VM VirtualBox.
-* **Methodologies:** Zero Trust, OWASP Top 10, CIS Controls v8.
+
+## Standards & Methodologies
+
+* **Governance & Risk:** NIST Cybersecurity Framework, ISO/IEC 27032.
+* **Technical Hardening:** CIS Controls v8.
+* **Application Security:** OWASP Top 10.
+* **Architectural Strategy:** Zero Trust.
 
 ---
 
