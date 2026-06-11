@@ -15,7 +15,7 @@ This repository contains a hands-on cybersecurity lab focused on network reconna
 
 ### Phase 1: Reconnaissance and Port Scanning (Zenmap)
 * **Network Mapping:** Conducted a subnet-wide quickscan to map active infrastructure and enumerate live hosts.
-* **Service Verification:** Investigated open ports across target IPs, identifying critical exposed services like HTTP (Port 80) and RDP/ms-wbt-server (Port 3389).
+* **Service Verification:** Investigated open ports across target IPs, identifying critical exposed services like HTTP (Port 80).
 * **Vulnerability Scanning:** Executed targeted Nmap scripts (nmap --script vuln) targeting web infrastructure to detect exposure to common vulnerabilities such as Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF).
 
 ### Phase 2: Packet Analysis & Credential Harvesting (Wireshark)
